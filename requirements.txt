@@ -1,0 +1,7 @@
+pyspark
+pandas
+sqlalchemy
+openpyxl
+xlrd
+matplotlib
+jupyter
